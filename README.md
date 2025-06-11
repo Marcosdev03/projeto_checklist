@@ -1,4 +1,3 @@
-# projeto_checklist
 # Projeto Checklist
 
 Este é um projeto de aplicação de checklist criado com o objetivo de aplicar boas práticas de desenvolvimento, versionamento, testes e automação. Ideal para portfólio e demonstração de habilidades DevOps, CI/CD e organização de projeto.
